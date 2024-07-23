@@ -1,0 +1,29 @@
+
+@font-face {
+    font-family: 'GothamRouded';
+    font-style:  normal;
+    font-weight: normal;
+    src: url('GothamRoundedBook_21018.ttf');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'GothamRouded';
+    font-style:  normal;
+    font-weight: bold;
+    src: url('GothamRoundedBold_21016.ttf');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'GothamRouded';
+    font-style:  normal;
+    font-weight: 600;
+    src: url('GothamRoundedMedium_21022.ttf');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'GothamRouded';
+    font-style:  normal;
+    font-weight: 100;
+    src: url('GothamRoundedLight_21020.ttf');
+    font-display: swap;
+}
